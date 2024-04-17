@@ -1,0 +1,2 @@
+Let's add new content, or some lines in the newfile.txt, 
+and then try to commit new content to the git repository
